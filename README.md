@@ -1,4 +1,4 @@
-# gickos-fs-boilerplates [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
+# gickos-fs-boilerplates [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage Status](https://coveralls.io/repos/github/supergicko/gickos-fs-boilerplates/badge.svg?branch=master)](https://coveralls.io/github/supergicko/gickos-fs-boilerplates?branch=master)
 > FS Boilerplates that have stood the test of time and are used in our daily work
 
 NOTE: This is just a playground. This module is propably not useful for you.
