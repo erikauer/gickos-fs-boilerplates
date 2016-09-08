@@ -1,6 +1,8 @@
 # gickos-fs-boilerplates [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > FS Boilerplates that have stood the test of time and are used in our daily work
 
+NOTE: This is just a playground. This module is propably not useful for you.
+
 ## Installation
 
 ```sh
